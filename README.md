@@ -1,2 +1,6 @@
 # nessus-python-export-vulns
-nessus , python
+
+access_key and secret_key ->> .env file
+
+pip install -r requirements.txt
+python export_nessus.py
